@@ -1,0 +1,8 @@
+{
+  "name": "my-ftp",
+  "autoload": {
+    "psr-0" : {
+      "FTP" : "src"
+    }
+  }
+}
