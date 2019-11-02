@@ -1,8 +1,8 @@
 {
-  "name": "my-ftp",
+  "name": "my-ftp/tools",
   "autoload": {
     "psr-0" : {
-      "FTP" : "src"
+      "MyFTP\\Tools" : "src"
     }
   }
 }

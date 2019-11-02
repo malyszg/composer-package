@@ -6,7 +6,7 @@
  * Time: 17:26
  */
 
-namespace FTP;
+namespace MyFTP\Tools;
 
 
 class FtpTools
