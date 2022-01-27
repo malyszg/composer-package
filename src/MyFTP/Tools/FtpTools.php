@@ -13,6 +13,6 @@ class FtpTools
 {
     public function test()
     {
-        return 'ok new';
+        return 'ok new new';
     }
 }
